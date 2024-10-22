@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PatrineGaleno
+- 👀 I’m interested in cybersecurity and mobile developing
+- 🌱 I’m currently learning flutter, django, php
